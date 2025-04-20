@@ -1,6 +1,6 @@
 # ee655-project
 
-This repository holds [code](https://github.com/tanvincible/ee655-project/model.py) of Group 26's EE655 Project, **Frontalization of Profile Face Images Using a Generative Adversarial Network**.
+This repository holds [code](https://github.com/tanvincible/ee655-project/blob/main/model.py) of Group 26's EE655 Project, **Frontalization of Profile Face Images Using a Generative Adversarial Network**.
 
 ### Group 26:
 - Abhinav Sinha (230042) 📧 [abhinavsi23](mailto:abhinavsi23.iitk.ac.in)
